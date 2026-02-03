@@ -1,2 +1,3 @@
 # FirstRepoKomal
-First personal repo
+First personal repo.
+Author:- Komal Kakkar
